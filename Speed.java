@@ -1,10 +1,3 @@
-/*
- *  Copyright (C) 2010  Luca Wehrstedt
- *
- *  This file is released under the GPLv2
- *  Read the file 'COPYING' for more information
- */
-
 class Speed {
     private double x = 0;
     private double y = 0;
